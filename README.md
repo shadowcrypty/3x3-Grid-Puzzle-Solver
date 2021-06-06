@@ -6,7 +6,8 @@ This is a logic puzzle in which you have a square grid of 33 cells. Each cell is
 
 The problem is to find the minimum number of cell clicks to transform a grid of all white cells into the input grid (which is always possible). You cannot rotate the grid.
 
-\includegraphics[width=0.6\textwidth ]{flip4}
+![Screenshot_67](https://user-images.githubusercontent.com/50110758/120938922-f5fe6100-c71d-11eb-8327-224bccc409a2.png)
+
 Figure 1: The two sample problems
 Input
 The first value in the input file is an integer  on a line by itself giving the number of problems to solve.
@@ -26,14 +27,9 @@ Sample Input 1	Sample Output 1
 ..*
 1
 3
+![Screenshot_68](https://user-images.githubusercontent.com/50110758/120938965-27772c80-c71e-11eb-827f-d2d64ab9e18f.png)
 
-CPU Time limit
-1 second
-Memory limit
-1024 MB
-Difficulty
-medium
-Downloads
-Sample data files
+
+
 Author
 Ivor Page
